@@ -6,7 +6,7 @@ import { projects } from "@/data";
 import React from "react";
 import MagicButton from "@/components/ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
-import Menu from "@/components/ui/menu";
+import Menu from "@/components/ui/Menu";
 
 // const projects = [
 //   {

@@ -4,7 +4,7 @@ import CoverSection from "./components/CoverSection";
 import FeaturedPosts from "./components/FeaturedPosts";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import RecentPosts from "./components/RecentPosts";
-import Menu from "@/components/ui/menu";
+import Menu from "@/components/ui/Menu";
 
 const Blog = () => {
   

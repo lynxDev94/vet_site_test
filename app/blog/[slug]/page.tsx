@@ -9,7 +9,7 @@ import { slug } from "github-slugger";
 import { RenderMdx } from "../components/Elements/RenderMdx";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import siteMetaData from "@/lib/siteMetaData";
-import Menu from "@/components/ui/menu";
+import Menu from "@/components/ui/Menu";
 
 interface MetadataProps {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
