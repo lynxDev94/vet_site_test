@@ -6,7 +6,7 @@ import { navItems } from "@/data";
 import { Clients } from "@/components/Clients";
 import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
-import Menu from "@/components/ui/menu";
+import Menu from "@/components/ui/Menu";
 
 export default function Home() {
   return (
